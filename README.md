@@ -78,9 +78,9 @@ Bank_Churn[CreditScore] >= 300 && Bank_Churn[CreditScore] <= 579, "Poor")
 
 ## Dashboard
 
-![](images/dashboard1.JPG)
+![](dashboard1.JPG)
 
-![](images/dashboard2.JPG)
+![](dashboard2.JPG)
 
 ## Key Insights and Observations
 1. **High Churn Among Poor Credit Holders:** Customers with poor credit ratings exhibit higher churn rates compared to other credit groups. The trend indicates that those with lower financial health are more likely to leave, signaling the need for targeted retention programs for this group.
